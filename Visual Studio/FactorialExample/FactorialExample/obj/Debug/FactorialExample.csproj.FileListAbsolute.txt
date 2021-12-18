@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\bin\Debug\FactorialExample.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\obj\Debug\FactorialExample.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\FactorialExample\FactorialExample\obj\Debug\FactorialExample.pdb

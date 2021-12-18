@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\bin\Debug\CollectionComparison.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\bin\Debug\CollectionComparison.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\bin\Debug\CollectionComparison.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\obj\Debug\CollectionComparison.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\obj\Debug\CollectionComparison.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\obj\Debug\CollectionComparison.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\CollectionComparison\CollectionComparison\obj\Debug\CollectionComparison.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\obj\Debug\StackDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\obj\Debug\StackDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\bin\Debug\StackDemo2.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\bin\Debug\StackDemo2.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\bin\Debug\StackDemo2.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\obj\Debug\StackDemo2.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StackDemo2\StackDemo2\obj\Debug\StackDemo2.pdb

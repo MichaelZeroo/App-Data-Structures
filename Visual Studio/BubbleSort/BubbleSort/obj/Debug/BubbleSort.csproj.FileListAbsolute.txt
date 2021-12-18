@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\bin\Debug\PatientsAppointmentDemo.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\bin\Debug\PatientsAppointmentDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\bin\Debug\PatientsAppointmentDemo.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.Form1.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.Properties.Resources.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\PatientsAppointmentDemo\PatientsAppointmentDemo\obj\Debug\PatientsAppointmentDemo.pdb

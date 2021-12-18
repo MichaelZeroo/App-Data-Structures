@@ -1,0 +1,12 @@
+12345,Connor,Auckland,male, Applied Data Structure
+12346,Reza,Auckland,male,Software Testing
+12467,Chris, Hamiltion,male,Database Application Development
+12489,Alison,Wellington,female,Professional Practice 
+12435,Samah,Auckland,female,Introduction to Database
+12456,Garry,Auckland,male,Applied Data Structure
+12334,John,Auckland,male,Database Application Developement
+123789,Sayan,Auckland,male,Software Testing 
+123781,Andrew,Auckland,male,Introduction to Database
+123412,Michael,Auckland,male,Professional Practice
+123521,Caleb,Auckland,male,Applied Data Structure
+132123,Justine,Auckland,female,Software Testing

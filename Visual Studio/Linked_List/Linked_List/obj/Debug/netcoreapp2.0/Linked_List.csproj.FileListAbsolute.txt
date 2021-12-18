@@ -1,0 +1,22 @@
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.deps.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.runtimeconfig.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.runtimeconfig.dev.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.dll
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/bin/Debug/netcoreapp2.0/Linked_List.pdb
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.csprojResolveAssemblyReference.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.csproj.CoreCompileInputs.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.AssemblyInfoInputs.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.AssemblyInfo.cs
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.dll
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Linked_List/Linked_List/obj/Debug/netcoreapp2.0/Linked_List.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\bin\Debug\netcoreapp2.0\Linked_List.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\bin\Debug\netcoreapp2.0\Linked_List.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\bin\Debug\netcoreapp2.0\Linked_List.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\bin\Debug\netcoreapp2.0\Linked_List.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\bin\Debug\netcoreapp2.0\Linked_List.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Linked_List\Linked_List\obj\Debug\netcoreapp2.0\Linked_List.pdb

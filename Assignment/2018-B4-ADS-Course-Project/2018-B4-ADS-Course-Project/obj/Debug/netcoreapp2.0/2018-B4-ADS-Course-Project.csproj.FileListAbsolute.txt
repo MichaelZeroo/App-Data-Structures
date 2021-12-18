@@ -1,0 +1,11 @@
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/bin/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.deps.json
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/bin/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.runtimeconfig.json
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/bin/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.runtimeconfig.dev.json
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/bin/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.dll
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/bin/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.pdb
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.csprojResolveAssemblyReference.cache
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.csproj.CoreCompileInputs.cache
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.AssemblyInfoInputs.cache
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.AssemblyInfo.cs
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.dll
+/Users/mgamalik/Projects/Applied Data Structures/Project/2018-B4-ADS-Course-Project/2018-B4-ADS-Course-Project/obj/Debug/netcoreapp2.0/2018-B4-ADS-Course-Project.pdb

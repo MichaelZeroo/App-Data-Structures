@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\bin\Debug\RecursionAndIterative.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\bin\Debug\RecursionAndIterative.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\bin\Debug\RecursionAndIterative.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\obj\Debug\RecursionAndIterative.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\obj\Debug\RecursionAndIterative.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\obj\Debug\RecursionAndIterative.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\RecursionAndIterative\RecursionAndIterative\obj\Debug\RecursionAndIterative.pdb

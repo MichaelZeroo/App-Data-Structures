@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.Properties.Resources.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\bin\Debug\TestPreperation.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\bin\Debug\TestPreperation.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\bin\Debug\TestPreperation.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\TestPreperation\TestPreperation\obj\Debug\TestPreperation.pdb

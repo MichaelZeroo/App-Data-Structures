@@ -1,0 +1,12 @@
+M G Abbas Malik,Applied Data Structures,MIT Press,2018,Programming
+Mike Thompson,Operating Systems,Cambridge Univeristy Press,2016,Computer Science
+Tenan Bom,Introduction to Programming,Wiley,2017,Programming
+Rozen,Discrete Mathematics,McGraw Hill,2015,Mathematics
+Micheal Johnson,Introduction to Networks,Pearson,2005,Networking
+Ian F Akyildiz,Wireless Communications,Pearson,2010,Networking
+John Keats,Algebra,MIT University Press,2016,Mathematics
+William Blake,Android Mobile Programming,Wiley,2016,Programming
+Tenaz Bom,Computer System Architecture,Cambridge University Press,2006,Computer Science
+Rabiya Zahoor,Introduction to Computing,Pearson,2019,Computer Science
+Donal Trump,Mathematics for Computer Science,Wiley,2017,Mathematics
+Ian F Akyildiz,Wireless Sensor Networks,MIT University Press,2018,Networking

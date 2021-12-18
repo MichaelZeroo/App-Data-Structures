@@ -1,0 +1,22 @@
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp2.0/LinkedListImplementation.deps.json
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp2.0/LinkedListImplementation.runtimeconfig.json
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp2.0/LinkedListImplementation.runtimeconfig.dev.json
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp2.0/LinkedListImplementation.dll
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/bin/Debug/netcoreapp2.0/LinkedListImplementation.pdb
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.csprojResolveAssemblyReference.cache
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.csproj.CoreCompileInputs.cache
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.AssemblyInfoInputs.cache
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.AssemblyInfo.cs
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.dll
+/Users/mgamalik/Projects/Applied Data Structures/Week03/LinkedListImplementation/LinkedListImplementation/obj/Debug/netcoreapp2.0/LinkedListImplementation.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\bin\Debug\netcoreapp2.0\LinkedListImplementation.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\bin\Debug\netcoreapp2.0\LinkedListImplementation.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\bin\Debug\netcoreapp2.0\LinkedListImplementation.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\bin\Debug\netcoreapp2.0\LinkedListImplementation.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\bin\Debug\netcoreapp2.0\LinkedListImplementation.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\LinkedListImplementation\LinkedListImplementation\obj\Debug\netcoreapp2.0\LinkedListImplementation.pdb

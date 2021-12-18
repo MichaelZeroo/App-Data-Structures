@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\bin\Debug\StudentCourseDataStructureDemo.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\bin\Debug\StudentCourseDataStructureDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\bin\Debug\StudentCourseDataStructureDemo.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.Form1.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.Properties.Resources.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\StudentCourseDataStructureDemo\StudentCourseDataStructureDemo\obj\Debug\StudentCourseDataStructureDemo.pdb

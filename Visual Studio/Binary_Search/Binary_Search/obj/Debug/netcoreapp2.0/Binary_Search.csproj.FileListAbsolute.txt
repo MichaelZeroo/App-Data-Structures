@@ -1,0 +1,22 @@
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.deps.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.runtimeconfig.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.runtimeconfig.dev.json
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.dll
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/bin/Debug/netcoreapp2.0/Binary_Search.pdb
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.csprojResolveAssemblyReference.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.csproj.CoreCompileInputs.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.AssemblyInfoInputs.cache
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.AssemblyInfo.cs
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.dll
+/Users/mgamalik/Projects/MIT/ADS/Lectures/Week03/Binary_Search/Binary_Search/obj/Debug/netcoreapp2.0/Binary_Search.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\bin\Debug\netcoreapp2.0\Binary_Search.deps.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\bin\Debug\netcoreapp2.0\Binary_Search.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\bin\Debug\netcoreapp2.0\Binary_Search.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\bin\Debug\netcoreapp2.0\Binary_Search.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\bin\Debug\netcoreapp2.0\Binary_Search.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\Binary_Search\Binary_Search\obj\Debug\netcoreapp2.0\Binary_Search.pdb

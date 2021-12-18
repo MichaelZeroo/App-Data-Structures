@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\bin\Debug\HashSetDemo.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\bin\Debug\HashSetDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\bin\Debug\HashSetDemo.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.Form1.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.Properties.Resources.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 4\App Data Structures\Visual Studio\HashSetDemo\HashSetDemo\obj\Debug\HashSetDemo.pdb
